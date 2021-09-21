@@ -1,5 +1,9 @@
 # python-hello-world
 A simple Hello world app
+
+
+## Download
+`git clone https://github.com/catcoder54/python-hello-world.git`
 ## Running
 Use
 
